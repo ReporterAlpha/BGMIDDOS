@@ -1,0 +1,24 @@
+UserID: 1801547184 | Time: 2024-07-30 04:57:08.002748 | Command: /bgmi | Target: 20.204.19.253 | Port: 10038 | Time: 300
+Username: @Vaishnav_Yt_Owner
+Target: 20.204.19.253
+Port: 10038
+Time: 300
+
+UserID: 1801547184 | Time: 2024-07-30 05:08:48.391131 | Command: /bgmi | Target: 20.198.109.171 | Port: 10438 | Time: 180
+Username: @Vaishnav_Yt_Owner
+Target: 20.198.109.171
+Port: 10438
+Time: 180
+
+UserID: 1801547184 | Time: 2024-07-30 05:18:19.013921 | Command: /bgmi | Target: 20.204.179.53 | Port: 16688 | Time: 240
+Username: @Vaishnav_Yt_Owner
+Target: 20.204.179.53
+Port: 16688
+Time: 240
+
+UserID: 1436278455 | Time: 2024-07-30 05:25:00.474802 | Command: /bgmi | Target: 127.0.0.1 | Port: 80 | Time: 10
+Username: @OfficialAakashSharma
+Target: 127.0.0.1
+Port: 80
+Time: 10
+
